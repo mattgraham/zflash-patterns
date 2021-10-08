@@ -10,6 +10,6 @@ patternName_back.gif
 ```
 
 ## CLS Files
-The files seem to be a fancy text document with the following, unverified methods:
+The files seem to be a fancy text document with the following, unverified methods. The two digit number is made up of the Position|State as such:
 
 ![pattern](https://user-images.githubusercontent.com/51578/136591686-13a8896b-4275-4295-81c8-6a5cfb621304.png)
