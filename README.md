@@ -4,6 +4,7 @@ This is a collection of z-flash patterns for thezflash.com module. 1_lightshow.c
 Feel free to share your custom patterns via pull request and if possible an animated gif of the pattern. ie 
 
 ```
+patternName_version.cls
 patternName_front.gif
 patternName_back.gif
 ```
