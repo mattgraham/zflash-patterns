@@ -27,7 +27,7 @@ Position:
 3: Left Front Low Beam
 4: Right Front Low Beam
 5: Left High Low Beam
-6: Left High Low Beam
+6: Right High Low Beam
 7: Left Front Turn
 8: Right Front Turn
 9: Left Rear Break
